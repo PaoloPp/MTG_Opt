@@ -1,0 +1,58 @@
+Experiment log:
+Mutation rate: 0.2
+Crossover rate: 0.1
+Number of generations: 2
+Number of matches pr opponent: 2
+Number of opponents: 4
+Opponents: ['GB-sealed-opponent.dck', 'UWg-sealed-opponent.dck', 'UW-sealed-opponent.dck', 'BGw-sealed-opponent.dck']
+Total number of matches: 160
+Time to complete: 333.13094305992126
+Avg time per match: 2.0820683941245077
+Strongest overall individual: 5
+Topscore for each generation:
+62.5, 37.5, 
+Median score for each generation:
+25.0, 6.25, 
+Worst score for each generation: 
+0.0, 0.0, 
+Overall best deck: 
+Highspire Artisan
+Consulate Turret
+Hidden Stockpile
+Vedalken Blademaster
+Thriving Rats
+Mountain
+Island
+Forest
+Mountain
+Forest
+Swamp
+Mountain
+Swamp
+Plains
+Weldfast Wingsmith
+Island
+Ovalchase Daredevil
+Plains
+Filigree Familiar
+Forest
+Druid of the Cowl
+Plains
+Chandra, Torch of Defiance
+Island
+Island
+Forest
+Plains
+Hinterland Drake
+Aethersphere Harvester
+Island
+Maulfist Squad
+scrapper champion
+Invigorated Rampage
+Kari Zev's Expertise
+Sequestered Stash
+Resourceful Return
+Island
+Audacious Infiltrator
+Aether Swooper
+Wily Bandar

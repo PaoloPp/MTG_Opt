@@ -1,0 +1,58 @@
+Experiment log:
+Mutation rate: 0.2
+Crossover rate: 0.1
+Number of generations: 1
+Number of matches pr opponent: 1
+Number of opponents: 4
+Opponents: ['GB-sealed-opponent.dck', 'UWg-sealed-opponent.dck', 'UW-sealed-opponent.dck', 'BGw-sealed-opponent.dck']
+Total number of matches: 40
+Time to complete: 118.70794582366943
+Avg time per match: 2.967698645591736
+Strongest overall individual: 2
+Topscore for each generation:
+50.0, 
+Median score for each generation:
+25.0, 
+Worst score for each generation: 
+0.0, 
+Overall best deck: 
+Aether Herder
+Built to Last
+Chandra's Revolution
+Concealed Courtyard
+Daring Demolition
+Diabolic Tutor
+Druid of the Cowl
+Fen Hauler
+Fragmentize
+Herald of Anguish
+Implement of Malice
+Irontread Crusher
+Prakhata Pillar-Bug
+Renegade Map
+Reservoir Walker
+Reverse Engineer
+Revoke Privileges
+Sage of Shaila's Claim
+Treasure Keeper
+Weldfast Wingsmith
+Plains
+Forest
+Mountain
+Mountain
+Forest
+Island
+Swamp
+Swamp
+Plains
+Mountain
+Plains
+Island
+Forest
+Swamp
+Plains
+Plains
+Swamp
+Forest
+Mountain
+Swamp

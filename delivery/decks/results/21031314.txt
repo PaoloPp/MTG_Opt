@@ -1,0 +1,58 @@
+Experiment log:
+Mutation rate: 0.2
+Crossover rate: 0.1
+Number of generations: 2
+Number of matches pr opponent: 2
+Number of opponents: 4
+Opponents: ['GB-sealed-opponent.dck', 'UWg-sealed-opponent.dck', 'UW-sealed-opponent.dck', 'BGw-sealed-opponent.dck']
+Total number of matches: 160
+Time to complete: 338.23952531814575
+Avg time per match: 2.113997033238411
+Strongest overall individual: 2
+Topscore for each generation:
+25.0, 12.5, 
+Median score for each generation:
+12.5, 6.25, 
+Worst score for each generation: 
+0.0, 0.0, 
+Overall best deck: 
+Forest
+Audacious Infiltrator
+Mountain
+Swamp
+Mountain
+Plains
+Kari Zev, Skyship Raider
+Weldfast Wingsmith
+Mountain
+Forest
+Cruel Finality
+Mountain
+Island
+Forest
+Plains
+Fortuitous Find
+Forest
+Swamp
+Mountain
+Mountain
+Island
+Freejam Regent
+Forest
+Kari Zev's Expertise
+Island
+Daredevil Dragster
+Audacious Infiltrator
+Island
+Verdant Automaton
+Plains
+Curio Vendor
+Commencement of Festivities
+Mountain
+Plains
+Swamp
+Plains
+Swamp
+Plains
+Island
+Deft Dismissal

@@ -1,0 +1,58 @@
+Experiment log:
+Mutation rate: 0.2
+Crossover rate: 0.1
+Number of generations: 1
+Number of matches pr opponent: 5
+Number of opponents: 2
+Opponents: ['GB-sealed-opponent.dck', 'UWg-sealed-opponent.dck']
+Total number of matches: 100
+Time to complete: 133.23674249649048
+Avg time per match: 1.3323674249649047
+Strongest overall individual: 4
+Topscore for each generation:
+40.0, 
+Median score for each generation:
+10.0, 
+Worst score for each generation: 
+0.0, 
+Overall best deck: 
+Caught in the Brights
+Countless Gears Renegade
+Glint-Sleeve Artisan
+Curio Vendor
+Weldfast Wingsmith
+Lost Legacy
+Ovalchase Daredevil
+Aether Poisoner
+Night Market Lookout
+Resourceful Return
+Aethertorch Renegade
+Embraal Gear-Smasher
+Hijack
+Commencement of Festivities
+Silkweaver Elite
+Wily Bandar
+Aethersphere Harvester
+Daredevil Dragster
+Accomplished Automaton
+Implement of Combustion
+Island
+Mountain
+Swamp
+Plains
+Forest
+Mountain
+Swamp
+Mountain
+Plains
+Plains
+Mountain
+Mountain
+Plains
+Swamp
+Plains
+Plains
+Mountain
+Forest
+Swamp
+Forest

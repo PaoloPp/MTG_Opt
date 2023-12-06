@@ -1,0 +1,3 @@
+CARD_DIR = '' #TBD
+FORGE_DIR = ''
+GMAIL_PASSWORD = ''

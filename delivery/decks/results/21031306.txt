@@ -1,0 +1,58 @@
+Experiment log:
+Mutation rate: 0.2
+Crossover rate: 0.1
+Number of generations: 2
+Number of matches pr opponent: 2
+Number of opponents: 4
+Opponents: ['GB-sealed-opponent.dck', 'UWg-sealed-opponent.dck', 'UW-sealed-opponent.dck', 'BGw-sealed-opponent.dck']
+Total number of matches: 160
+Time to complete: 297.90844774246216
+Avg time per match: 1.8619277983903886
+Strongest overall individual: 3
+Topscore for each generation:
+37.5, 25.0, 
+Median score for each generation:
+12.5, 12.5, 
+Worst score for each generation: 
+0.0, 0.0, 
+Overall best deck: 
+Aether Poisoner
+Thriving Rats
+Chandra, Torch of Defiance
+Forest
+Gonti's Machinations
+Embraal Gear-Smasher
+Swamp
+Invigorated Rampage
+Forest
+Deft Dismissal
+Island
+Renegade's Getaway
+Forest
+Accomplished Automaton
+Aethersphere Harvester
+Island
+Daredevil Dragster
+Failed Inspection
+Swamp
+Wind-Kin Raiders
+Sequestered Stash
+Shock
+Plains
+Filigree Familiar
+Weldfast Wingsmith
+Mountain
+Elegant Edgecrafters
+Filigree Crawler
+Mountain
+Forest
+Daring Demolition
+Swamp
+Cruel Finality
+Plains
+Swamp
+Island
+Renegade Freighter
+Hidden Stockpile
+Aether Theorist
+Night Market Lookout

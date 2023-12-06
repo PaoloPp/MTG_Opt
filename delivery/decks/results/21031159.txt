@@ -1,0 +1,58 @@
+Experiment log:
+Mutation rate: 0.2
+Crossover rate: 0.1
+Number of generations: 5
+Number of matches pr opponent: 10
+Number of opponents: 4
+Opponents: ['GB-sealed-opponent.dck', 'UWg-sealed-opponent.dck', 'UW-sealed-opponent.dck', 'BGw-sealed-opponent.dck']
+Total number of matches: 2000
+Time to complete: 2441.324812889099
+Avg time per match: 1.2206624064445495
+Strongest overall individual: 14
+Topscore for each generation:
+25.0, 25.0, 27.500000000000004, 32.5, 35.0, 
+Median score for each generation:
+15.0, 20.0, 16.25, 20.0, 23.75, 
+Worst score for each generation: 
+5.0, 12.5, 7.5, 7.5, 20.0, 
+Overall best deck: 
+Mountain
+Forest
+Aethersphere Harvester
+Swamp
+Forest
+Forest
+Night Market Lookout
+Fen Hauler
+Mountain
+Swamp
+Fortuitous Find
+Island
+Commencement of Festivities
+Wily Bandar
+Swamp
+Island
+Swamp
+Mountain
+Swamp
+Island
+Plains
+Resourceful Return
+Plains
+Unlicensed Disintegration
+Plains
+Maulfist Squad
+Freejam Regent
+Island
+Glint-Sleeve Artisan
+Plains
+Bastion Inventor
+Hidden Stockpile
+Kari Zev, Skyship Raider
+Mountain
+Swamp
+Aether Poisoner
+Plains
+Swamp
+Aethertorch Renegade
+Take into Custody

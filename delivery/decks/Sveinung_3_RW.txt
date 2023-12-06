@@ -1,0 +1,74 @@
+1 Revoke Privileges
+9 Mountain
+8 Plains
+1 Consul's Shieldguard
+1 Combustible Gearhulk
+1 Inventor's Apprentice
+1 Visionary Augmenter
+3 Gearshift Ace
+1 Weldfast Monitor
+1 Skyship Stalker
+1 Fleetwheel Cruiser
+1 Sky Skiff
+1 Scrapheap Scrounger
+1 Renegade Freighter
+1 Chief of the Foundry
+1 Propeller Pioneer
+1 Glint-Sleeve Artisan
+1 Fragmentize
+1 Veteran Motorist
+2 Brazen Scourge
+1 Bomat Bazaar Barge
+1 Thriving Grubs
+
+1 Concealed Courtyard
+2 Wily Bandar
+1 Take Down
+1 Ornamental Courage
+1 Spark of Creativity
+1 Ruinous Gremlin
+1 Harsh Scrutiny
+1 Fragmentize
+1 Built to Last
+1 Torch Gauntlet
+1 Fretwork Colony
+1 Servant of the Conduit
+2 Larger Than Life
+1 Commencement of Festivities
+2 Foundry Screecher
+2 Cathartic Reunion
+1 Woodweaver's Puzzleknot
+1 Rush of Vitality
+1 Revolutionary Rebuff
+2 Impeccable Timing
+1 Eddytrail Hawk
+1 Gonti, Lord of Luxury
+1 Thriving Rats
+1 Prakhata Pillar-Bug
+1 Die Young
+1 Thriving Rhino
+1 Appetite for the Unnatural
+1 Hijack
+1 Spireside Infiltrator
+1 Lost Legacy
+2 Live Fast
+1 Cogworker's Puzzleknot
+1 Lawless Broker
+1 Glassblower's Puzzleknot
+1 Fortuitous Find
+1 Wind Drake
+2 Aether Tradewinds
+1 Herald of the Fair
+1 Restoration Gearsmith
+1 Peema Outrider
+3 Wild Wanderer
+1 Tezzeret's Ambition
+2 Failed Inspection
+1 Glimmer of Genius
+1 Thriving Ibex
+1 Aradara Express
+1 Engineered Might
+1 Wayward Giant
+1 Ambitious Aetherborn
+1 Skyswirl Harrier
+2 Workshop Assistant

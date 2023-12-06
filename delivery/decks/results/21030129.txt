@@ -1,0 +1,58 @@
+Experiment log:
+Mutation rate: 0.2
+Crossover rate: 0.1
+Number of generations: 40
+Number of matches pr opponent: 25
+Number of opponents: 2
+Opponents: ['GB-sealed-opponent.dck', 'UWg-sealed-opponent.dck']
+Total number of matches: 20000
+Time to complete: 26082.868936538696
+Avg time per match: 1.3041434468269348
+Strongest overall individual: 22
+Topscore for each generation:
+24.0, 28.000000000000004, 36.0, 36.0, 32.0, 30.0, 38.0, 34.0, 34.0, 32.0, 28.000000000000004, 28.000000000000004, 38.0, 28.000000000000004, 30.0, 32.0, 36.0, 32.0, 40.0, 30.0, 36.0, 34.0, 36.0, 32.0, 38.0, 42.0, 38.0, 42.0, 40.0, 38.0, 42.0, 34.0, 34.0, 36.0, 42.0, 42.0, 44.0, 42.0, 38.0, 34.0, 
+Median score for each generation:
+14.000000000000002, 15.0, 20.0, 25.0, 23.0, 23.0, 23.0, 25.0, 25.0, 23.0, 17.0, 24.0, 26.0, 24.0, 21.0, 25.0, 28.000000000000004, 24.0, 20.0, 25.0, 28.000000000000004, 24.0, 30.0, 26.0, 35.0, 30.0, 28.999999999999996, 32.0, 30.0, 26.0, 31.0, 28.000000000000004, 26.0, 27.0, 30.0, 31.0, 24.0, 27.0, 28.999999999999996, 26.0, 
+Worst score for each generation: 
+6.0, 6.0, 12.0, 10.0, 16.0, 8.0, 14.000000000000002, 16.0, 18.0, 16.0, 6.0, 14.000000000000002, 20.0, 16.0, 12.0, 14.000000000000002, 16.0, 18.0, 12.0, 14.000000000000002, 16.0, 18.0, 22.0, 20.0, 20.0, 24.0, 20.0, 20.0, 20.0, 22.0, 20.0, 12.0, 22.0, 14.000000000000002, 22.0, 14.000000000000002, 18.0, 14.000000000000002, 22.0, 16.0, 
+Overall best deck: 
+Mountain
+Glint-Sleeve Artisan
+Curio Vendor
+Vengeful Rebel
+Aether Poisoner
+Cruel Finality
+Daring Demolition
+Fortuitous Find
+Maulfist Squad
+Renegade's Getaway
+Freejam Regent
+Embraal Gear-Smasher
+Night Market Lookout
+Elegant Edgecrafters
+Druid of the Cowl
+Thriving Rhino
+Hidden Stockpile
+Renegade Rallier
+Filigree Familiar
+Accomplished Automaton
+Renegade Freighter
+Verdant Automaton
+Island
+Plains
+Swamp
+Mountain
+Swamp
+Mountain
+Swamp
+Mountain
+Forest
+Forest
+Swamp
+Swamp
+Plains
+Plains
+Forest
+Swamp
+Mountain
+Forest
